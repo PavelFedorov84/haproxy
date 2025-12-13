@@ -76,9 +76,9 @@ listen web_tcp
 	server p2 127.0.0.1:9999 check inter 3s
 ```
 
-`https://github.com/PavelFedorov84/haproxy/blob/main/img/HaproxyS1.jpg`
+https://github.com/PavelFedorov84/haproxy/blob/main/img/HaproxyS1.jpg
 
-`https://github.com/PavelFedorov84/haproxy/blob/main/img/HaproxyS1.jpg`
+https://github.com/PavelFedorov84/haproxy/blob/main/img/HaproxyS2.jpg
 
 
 ---
