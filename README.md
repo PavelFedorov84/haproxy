@@ -245,5 +245,5 @@ backend example2_backend    # секция бэкенд
         server p4 127.0.0.1:6666 check
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![](https://github.com/PavelFedorov84/haproxy/blob/main/img/HaproxyS7.jpg)
+![](https://github.com/PavelFedorov84/haproxy/blob/main/img/HaproxyS8.jpg)
