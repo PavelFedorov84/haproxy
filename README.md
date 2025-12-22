@@ -24,9 +24,8 @@
 
 ### Задание 1
 
-```
 ![](https://github.com/PavelFedorov84/haproxy/blob/main/config/haproxy_conf1.cfs)
-```
+
 ![](https://github.com/PavelFedorov84/haproxy/blob/main/img/HaproxyS1.jpg)
 ![](https://github.com/PavelFedorov84/haproxy/blob/main/img/HaproxyS2.jpg)
 
